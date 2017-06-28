@@ -1,9 +1,9 @@
-#Spider-Man Auto Correct
+# Spider-Man Auto Correct
 
 There's an hyphen.
 
 ![God has spoken](god-has-spoken.png)
 
-Chrome extension, to use you must clone it and then load the unpacked extension
+The best way to use this extension is by downloading it on the [Chrome Webstore](https://chrome.google.com/webstore/detail/spider-man-auto-correct/alcaoiplneomoakpmbjpnliadondabin) 
 
-Or just download it [HERE](https://chrome.google.com/webstore/detail/spider-man-auto-correct/alcaoiplneomoakpmbjpnliadondabin)
+You can also clone the repository and then load the unpacked extension into Chrome
